@@ -43,7 +43,7 @@ To learn more about our technology stack, explore these resources:
 ## Contributing
 ### How to Contribute
 - Create or choose an issue you want to be assigned to and tag [@DevBigEazi](https://github.com/DevBigEazi). Wait for approval.
-- After approval, create a new branch from `main` with your name and feature. 
+- After approval, create a new branch from `staging` with your name and feature. 
   - Example: `johndoe/blockchain-integration`
 - Ensure you rebase or pull before making a pull request to `main`
 - Reference the issue in your pull request by mentioning the issue number or URL
