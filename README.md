@@ -42,6 +42,7 @@ To learn more about our technology stack, explore these resources:
 
 ## Contributing
 ### How to Contribute
+- Check [figma design](https://www.figma.com/design/XWEd1GxqKCKOIkwZxTZ4w1/Ticket-City-(Web3-Event-Platform)?node-id=32-30&t=r0ThPDRc2C00Etov-4)
 - Create or choose an issue you want to be assigned to and tag [@DevBigEazi](https://github.com/DevBigEazi). Wait for approval.
 - After approval, create a new branch from `staging` with your name and feature. 
   - Example: `johndoe/blockchain-integration`
@@ -57,9 +58,6 @@ To learn more about our technology stack, explore these resources:
 ## Community
 - Report bugs and suggest features on our [GitHub Issues](https://github.com/CityBlockLab/TicketCityLandingPage/issues)
 - Follow us on [Twitter/X](https://twitter.com/ticket_City_xyz)
-
-## License
-[MIT Licence]
 
 ## Contact
 - Project Maintainer: [@DevBigEazi](https://github.com/DevBigEazi)
