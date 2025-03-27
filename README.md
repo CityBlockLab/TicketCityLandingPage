@@ -1,9 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Welcome to Ticket City Official Landing Page 👋
 
-## Getting Started
+## Overview
+Ticket City revolutionizes event management through blockchain technology, offering a secure, transparent, and efficient platform for event organizers and attendees. By leveraging Electroneum's infrastructure and ETN token, we provide a seamless experience for event creation, ticket distribution, and attendance verification.
 
-First, run the development server:
-
+## Get Started
+- Create a fork of the repository and clone the fork version
+- Install necessary dependencies by running `yarn` or `npm`:
+```bash
+yarn install
+# or
+npm install
+```
+- Start the development server:
 ```bash
 npm run dev
 # or
@@ -13,24 +21,46 @@ pnpm dev
 # or
 bun dev
 ```
+- Your server will be running on **localhost:3000**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Editing Content
+- This is a Next.js app using TypeScript and TailwindCSS
+- Start editing pages by modifying `app/page.tsx`
+- Pages auto-update as you edit files
+- Carefully review the files before making changes
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Prerequisites
+- Node.js (latest LTS version)
+- Yarn or npm
+- Basic understanding of Next.js and React
 
 ## Learn More
+To learn more about our technology stack, explore these resources:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
+- [React.js Learn](https://react.dev/learn)
+- [Learn TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss)
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
+### How to Contribute
+- Create or choose an issue you want to be assigned to and tag [@DevBigEazi](https://github.com/DevBigEazi). Wait for approval.
+- After approval, create a new branch from `main` with your name and feature. 
+  - Example: `johndoe/blockchain-integration`
+- Ensure you rebase or pull before making a pull request to `main`
+- Reference the issue in your pull request by mentioning the issue number or URL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Contribution Guidelines
+- Ensure code follows project coding standards
+- Write clean, maintainable, and well-documented code
+- Include tests for new features or bug fixes
+- Provide a detailed description of your changes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Community
+- Report bugs and suggest features on our [GitHub Issues](https://github.com/CityBlockLab/TicketCityLandingPage/issues)
+- Follow us on [Twitter/X](https://twitter.com/ticket_City_xyz)
 
-## Deploy on Vercel
+## License
+[MIT Licence]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contact
+- Project Maintainer: [@DevBigEazi](https://github.com/DevBigEazi)
+- Email: adesholatajudeen1@gmail.com
