@@ -1,7 +1,7 @@
 # Welcome to Ticket City Official Landing Page 👋
 
 ## Overview
-Ticket City revolutionizes event management through blockchain technology, offering a secure, transparent, and efficient platform for event organizers and attendees. By leveraging Electroneum's infrastructure and ETN token, we provide a seamless experience for event creation, ticket distribution, and attendance verification.
+Ticket City revolutionizes event management through blockchain technology, offering a secure, transparent, and efficient platform for event organizers and attendees. By leveraging Blockchain's infrastructure and cryptocurrencies, we provide a seamless experience for event creation, ticket distribution, and attendance verification.
 
 ## Get Started
 - Create a fork of the repository and clone the fork version
